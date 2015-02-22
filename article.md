@@ -69,4 +69,30 @@
 
 [<img src="/img/sector_1_status_page.png" alt="Sector 1 status page" height=200 width=320 />](/img/sector_1_status_page.png) [<img src="/img/sector_2_status_page.png" alt="Sector 2 status page" height=200 width=320 />](/img/sector_2_status_page.png)
 
+Также на БС обычно устанавливается роутер или умный свич, в зависимости от топологии провайдера. Но самый простой вариант - установка роутера и настройка на нем NAT. Хорошо себя показали Mikrotik [RB750UP](http://hotline.ua/computer-marshrutizatory/mikrotik-rb750up/) и [RB450](http://routerboard.com/RB450). В случае с UP, от него можно запитать еще и оборудование Ubiquiti. Кроме того, потратив немного времени, можно самому сделать еще систему резервирования питания на двух АКБ и БП от RB750UP. Такая система без нареканий у нас в селе рабоатет уже 4 месяца.
 
+Скриншот ПО для работы с роутерами Mikrotik:
+
+[<img src="/img/router_sample_page.png" alt="Sector 1 status page" height=200 width=320 />](/img/router_sample_page.png)
+
+### Подключение клиентов
+
+По сути, самая сложная часть. Так как при подключении клиентов нужно учитывать многие параметры: расстояние от БС, необходимую скорость, [SNR](http://en.wikipedia.org/wiki/Signal-to-noise_ratio), [Зону Френеля](http://asp24.com.ua/blog/zona-frenelja/). В данном случае лучше всего поможет практический опыт. Но если просто, то лучший вариант - прямая видимость БС, без деревьев.
+
+По железу, самый хороший вариант в соотношении цена/качество - [AirGrid](https://www.ubnt.com/airmax/airgridm/). Так же популярны [NanoStation](https://www.ubnt.com/airmax/nanostationm/) и [NanoBrodge](https://www.ubnt.com/airmax/nanostationm/).
+
+Фото клиентского оборудования. В данном случае - Ubiquiti NanoBridge M2:
+
+[<img src="/img/IMG_0720.JPG" alt="Client Equipment" height=150 width=200 />](/img/IMG_0720.JPG)
+
+Пример страницы статуса клиента:
+
+[<img src="/img/client_status_page.png" alt="Sector 1 status page" height=200 width=320 />](/img/client_status_page.png)
+
+### Вместо выводов
+
+Из альтернатив, подобные системы производит Mikrotik. Данные компании производят оборудование высокого качества, довольно простое в настройке и за вменяемые деньги. Это отличный вариант для построения сетей там, куда не дошли кабельные провайдеры.
+
+Если будут возникать вопросы - задавайте в комментариях.
+
+Ну и оригинал всегда доступен на моей [Github](https://github.com/ZhuChara2004/WiFi_Area_Network/blob/master/article.md)-страничке
