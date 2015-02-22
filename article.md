@@ -63,10 +63,10 @@
 
 Кроме того, оборудование может быть установлено во дворе на мачты, производимые под заказ. Например, те, что используются радиолюбителями:
 
-[<img src="/img/IMG_0728.jpg" alt="Оборудование БС" height=200 width=150 />](/img/IMG_0728.jpg)  [<img src="/img/IMG_0732.jpg" alt="Оборудование БС" height=200 width=150 />](/img/IMG_0732.jpg)
+[<img src="/img/IMG_0728.JPG" alt="Мачта 1" height=200 width=150 />](/img/IMG_0728.JPG)  [<img src="/img/IMG_0732.JPG" alt="Мачта 2" height=200 width=150 />](/img/IMG_0732.JPG)
 
 Пример страницы статуса секторов Rocket M2:
 
-[<img src="/img/sector_1_status_page.png" alt="Оборудование БС" height=200 width=320 />](/img/sector_1_status_page.png) [<img src="/img/sector_2_status_page.png" alt="Оборудование БС" height=200 width=320 />](/img/sector_2_status_page.png)
+[<img src="/img/sector_1_status_page.png" alt="Sector 1 status page" height=200 width=320 />](/img/sector_1_status_page.png) [<img src="/img/sector_2_status_page.png" alt="Sector 2 status page" height=200 width=320 />](/img/sector_2_status_page.png)
 
 
